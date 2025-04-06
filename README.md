@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Henryoman
-- algorithmic trader and data enthusiast
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on quantitative market related projects
+- I'm a trader that got into coding through algorithmic trading and python
+- 🌱 I fell in love with software and am now full stack web and 
+- 💞️ Next.js, Typescript, Python, Rust, Solana, React Native
 
