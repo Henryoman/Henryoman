@@ -1,3 +1,4 @@
 - hi, i’m @henryoman
-- i use Next.js, Typescript, Python, Rust, Solana, React Native
-
+- im good at front end typescript development and quant related stuff 
+- currently attempting to game dev
+- currently learning Go
