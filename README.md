@@ -1,4 +1,2 @@
-- hi, i’m @henryoman
-- im good at front end typescript development and quant related stuff 
-- currently attempting to game dev
-- currently learning Go
+- front end / typescript / next.js / Go / Solana / Rust
+- currently learning Godot
